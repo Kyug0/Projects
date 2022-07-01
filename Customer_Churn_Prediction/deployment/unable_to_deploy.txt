@@ -1,0 +1,13 @@
+I am unable to deploy the models to heroku because my file size was too large
+with a size of 660.6M. But eventhough I am unable to deploy the model to heroku,
+I am still able to run the model/file in local
+
+======== CONTEXT: =====================
+remote: -----> Compressing...
+remote:  !     Compiled slug size: 660.6M is too large (max is 500M).
+remote:  !     See: http://devcenter.heroku.com/articles/slug-size
+remote:
+remote:  !     Push failed
+remote: Verifying deploy...
+remote:
+remote: !       Push rejected to hugo-p2m1-backend.
